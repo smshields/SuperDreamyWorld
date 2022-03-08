@@ -838,6 +838,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2005066236}
     m_Modifications:
+    - target: {fileID: 1161387694, guid: 0070cd3e8c40fae49986d18cf6fad788, type: 3}
+      propertyPath: _gameObject
+      value: 
+      objectReference: {fileID: 210443676}
     - target: {fileID: 4055558521482959314, guid: 0070cd3e8c40fae49986d18cf6fad788, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -904,11 +908,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4055558521482959314, guid: 0070cd3e8c40fae49986d18cf6fad788, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -396.47
+      value: 373.9
       objectReference: {fileID: 0}
     - target: {fileID: 4055558521482959314, guid: 0070cd3e8c40fae49986d18cf6fad788, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -225.39
+      value: -42.5
       objectReference: {fileID: 0}
     - target: {fileID: 4055558521482959314, guid: 0070cd3e8c40fae49986d18cf6fad788, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -926,10 +930,6 @@ PrefabInstance:
       propertyPath: original
       value: 
       objectReference: {fileID: 1223911384}
-    - target: {fileID: 4055558521482959319, guid: 0070cd3e8c40fae49986d18cf6fad788, type: 3}
-      propertyPath: _gameObject
-      value: 
-      objectReference: {fileID: 210443676}
     - target: {fileID: 4055558521482959325, guid: 0070cd3e8c40fae49986d18cf6fad788, type: 3}
       propertyPath: m_Name
       value: LightSwitchButton
