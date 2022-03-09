@@ -419,6 +419,10 @@ MonoBehaviour:
   goalReached: 1
   goal: {x: 0, y: 0, z: 0}
   sr: {fileID: 0}
+  idleAnim: 0.5
+  idleTime: 0
+  idle1: {fileID: 21300000, guid: 8db1207cef9c2e4478ad999415cecc39, type: 3}
+  idle2: {fileID: 21300000, guid: 9bb6ec3008a323741ac28cf646d38964, type: 3}
 --- !u!1 &496893923
 GameObject:
   m_ObjectHideFlags: 0
@@ -1214,7 +1218,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 8db1207cef9c2e4478ad999415cecc39, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
