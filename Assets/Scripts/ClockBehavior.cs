@@ -110,6 +110,10 @@ public class ClockBehavior : MonoBehaviour
         }
     }
 
+    public void EnableClockInterface() {
+        thisCanvasGO.SetActive(true);
+    }
+
     private void ResetClock() {
         hour = 12;
         minute = 0;
